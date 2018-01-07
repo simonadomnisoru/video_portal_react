@@ -1,0 +1,8 @@
+node_modules/*
+videos/*
+controllers/*
+helpers/*
+models/*
+routes/*
+config.js
+index.js
