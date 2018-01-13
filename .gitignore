@@ -12,3 +12,4 @@ package-lock.json
 .vscode/launch.json
 .vs/slnx.sqlite
 .vs/*
+.vscode/*
