@@ -6,3 +6,6 @@ models/*
 routes/*
 config.js
 index.js
+.vs/*
+package-lock.json
+.vs/slnx.sqlite
