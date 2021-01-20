@@ -6,3 +6,10 @@ models/*
 routes/*
 config.js
 index.js
+package-lock.json
+
+# visual code
+.vscode/launch.json
+.vs/slnx.sqlite
+.vs/*
+.vscode/*
